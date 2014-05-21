@@ -1,0 +1,25 @@
+/* ----------------------------------------------------
+   created with http://www.codeandweb.com/texturepacker 
+   ----------------------------------------------------
+   $TexturePacker:SmartUpdate:e3bf9ba81f139343b7b9e46f457bc665:413c0f96e07ff6d8c8cd734c756c6924:a69a050665216d6c22e5be393745a8db$
+   ----------------------------------------------------
+
+   usage: <span class="{-spritename-} sprite"></span>
+
+   replace {-spritename-} with the sprite you like to use
+
+*/
+
+.sprite {display:inline-block; overflow:hidden; background-repeat: no-repeat;background-image:url(../Images/fatcat.png);}
+
+.apple {width:99px; height:100px; background-position: -2px -603px}
+.cham.png {width:400px; height:400px; background-position: -934px -404px}
+.cupcake {width:95px; height:100px; background-position: -200px -603px}
+.dog {width:528px; height:599px; background-position: -2px -2px}
+.dog_one {width:400px; height:400px; background-position: -934px -2px}
+.freezer_one {width:400px; height:400px; background-position: -532px -404px}
+.grapes {width:100px; height:94px; background-position: -2px -705px}
+.hamburger {width:95px; height:100px; background-position: -103px -603px}
+.mouse {width:400px; height:400px; background-position: -532px -2px}
+.pie {width:88px; height:100px; background-position: -297px -603px}
+.popsicle {width:71px; height:100px; background-position: -387px -603px}

@@ -3,10 +3,27 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Fat Cat</title>
+    <title>Fat Cat</title>   
+    <script type="text/javascript"src="./kinetic.js"></script> 
+    <script defer="defer"></script>   
     <script type="text/javascript" src="./game.js"></script>
-</head>
-    <body> 
-        <canvas id="gameWorld" width="800" height="600" style="border: 1px solid brown; background-color: white"></canvas> 
-    </body>
+
+	<script type="text/javascript">
+        function go()
+        {
+            ajaxs.prototype.validateForm();
+        }
+    </script>
+
+    </head>
+        <body>
+            <div id="gamey" >
+            <canvas id="gameWorld"  width="900" height="599" style="border: 10px solid green; background-color: black"></canvas>
+            </div>
+
+			<form>
+			Username: <input type="text" id="login" name="username"><br>
+			</form>
+		    <button type="button" onclick="go()">Login</button> 
+        </body>
 </html>
